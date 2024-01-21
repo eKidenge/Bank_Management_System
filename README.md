@@ -1,6 +1,6 @@
 # CentralBank
 
-This is a Banking web-app I created as a part of my Engineering curriculum.
+This is a Banking web-app I created for Investobrain Savings and Credit Cooperative Organisation or Society.
 
 ## Features
 <li> Create new account and get a unique account number on sign-in.
@@ -12,17 +12,17 @@ This is a Banking web-app I created as a part of my Engineering curriculum.
 
 ## Prerequisites
 1. A Terminal (preferred) or a CMD
-2. Python 3.4 or above installed. (Windows users might need to [add it to path](https://superuser.com/questions/143119/how-do-i-add-python-to-the-windows-path).)
-3. Django framework 1.8 or above installed and working.
+2. Python 3.10.12 or above installed. (Windows users might need to [add it to path](https://superuser.com/questions/143119/how-do-i-add-python-to-the-windows-path).)
+3. Django framework 4.2.7 or above installed and working.
 
 ## Installation
 1. Open a Terminal, and clone the current repository.
     ```
-    git clone https://github.com/rafi007akhtar/CentralBank.git
+    git clone https://github.com/eKidenge/Bank_Management_System.git
     ```
 2. Enter the root directory.
     ```
-    cd CentralBank
+    cd Bank_Management_System
     ```
 
 3. Now start the setup by entering the following command.
